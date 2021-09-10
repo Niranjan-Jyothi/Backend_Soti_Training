@@ -1,0 +1,6 @@
+F:\work\soti\xpedia\backend\Calculator\bin\Debug\Calculator.exe.config
+F:\work\soti\xpedia\backend\Calculator\bin\Debug\Calculator.exe
+F:\work\soti\xpedia\backend\Calculator\bin\Debug\Calculator.pdb
+F:\work\soti\xpedia\backend\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\work\soti\xpedia\backend\Calculator\obj\Debug\Calculator.exe
+F:\work\soti\xpedia\backend\Calculator\obj\Debug\Calculator.pdb

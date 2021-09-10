@@ -1,0 +1,7 @@
+F:\work\soti\xpedia\backend\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+F:\work\soti\xpedia\backend\ConsoleApp1\bin\Release\ConsoleApp1.exe
+F:\work\soti\xpedia\backend\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+F:\work\soti\xpedia\backend\ConsoleApp1\obj\Release\ConsoleApp1.csproj.AssemblyReference.cache
+F:\work\soti\xpedia\backend\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\work\soti\xpedia\backend\ConsoleApp1\obj\Release\ConsoleApp1.exe
+F:\work\soti\xpedia\backend\ConsoleApp1\obj\Release\ConsoleApp1.pdb
