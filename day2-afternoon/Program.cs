@@ -14,17 +14,35 @@ namespace Calculator
             //Calculator();
             //tryParsing();
             //unboxing();
-            Console.WriteLine(assignment1_fn(4));
+            assignment1_fn();
 
+            Console.WriteLine("Press any Key to exit Program ....");
             Console.ReadLine();
         }
 
         
-        private static int assignment1_fn(int y)
+        private static void assignment1_fn()
         {
-            
-            int x = (int)(Math.Pow(y, 2) + (2 * y) + 1);
-            return x;
+            while (true)
+            {
+                string raw_userInp = Console.ReadLine();
+                if (raw_userInp == "q")
+                {
+                    break;
+                }
+                int valid_userInp;
+                bool ifSuccess = int.TryParse(raw_userInp, out valid_userInp);
+                if (!ifSuccess)
+                {
+                    Console.WriteLine("Enter a Valid Integer");
+                }
+                else
+                {
+                    Console.WriteLine((int)(Math.Pow(valid_userInp, 2) + (2 * valid_userInp) + 1));
+                }
+
+            }
+           
         }
 
         private static void unboxing()
