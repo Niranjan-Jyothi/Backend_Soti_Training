@@ -1,0 +1,7 @@
+F:\work\soti\xpedia\backend\day3_Polymorphism\bin\Debug\day3_Polymorphism.exe.config
+F:\work\soti\xpedia\backend\day3_Polymorphism\bin\Debug\day3_Polymorphism.exe
+F:\work\soti\xpedia\backend\day3_Polymorphism\bin\Debug\day3_Polymorphism.pdb
+F:\work\soti\xpedia\backend\day3_Polymorphism\obj\Debug\day3_Polymorphism.csproj.CoreCompileInputs.cache
+F:\work\soti\xpedia\backend\day3_Polymorphism\obj\Debug\day3_Polymorphism.exe
+F:\work\soti\xpedia\backend\day3_Polymorphism\obj\Debug\day3_Polymorphism.pdb
+F:\work\soti\xpedia\backend\day3_Polymorphism\obj\Debug\day3_Polymorphism.csproj.AssemblyReference.cache

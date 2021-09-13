@@ -1,0 +1,7 @@
+F:\work\soti\xpedia\backend\day3_oops\obj\Debug\day3_oops.csproj.AssemblyReference.cache
+F:\work\soti\xpedia\backend\day3_oops\obj\Debug\day3_oops.csproj.CoreCompileInputs.cache
+F:\work\soti\xpedia\backend\day3_oops\bin\Debug\day3_oops.exe.config
+F:\work\soti\xpedia\backend\day3_oops\bin\Debug\day3_oops.exe
+F:\work\soti\xpedia\backend\day3_oops\bin\Debug\day3_oops.pdb
+F:\work\soti\xpedia\backend\day3_oops\obj\Debug\day3_oops.exe
+F:\work\soti\xpedia\backend\day3_oops\obj\Debug\day3_oops.pdb
