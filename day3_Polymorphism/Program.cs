@@ -10,7 +10,7 @@ namespace day3_Polymorphism
     {
         Developer, Delevery_Manager
     }
-    class User
+    abstract class User
     {
         public string Name { get; }
         public const int age  = 10; //Can't be accessed by "this. "  AND by default it is static
@@ -38,6 +38,8 @@ namespace day3_Polymorphism
         {
             Console.WriteLine("In USer New-Entered FN");
         }
+
+        public abstract void studyingAbstract();
     }
 
     class Employee : User
@@ -50,17 +52,29 @@ namespace day3_Polymorphism
         {
             Console.WriteLine("Inside New Enter Function of Employee(sub-class)- Overriding the parent class method");
         }
+
+        public override void studyingAbstract()
+        {
+            Console.WriteLine("Inside Sublass fn and Parent(User) method is overritten");
+        }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            
+
             //basics();
-            enumeration();
+            //enumeration();
+            studying_abstract();
 
             Console.WriteLine("Press a Key to Exit ..");
             Console.ReadLine();
+        }
+
+        private static void studying_abstract()
+        {
+            Employee e1 = new Employee("Raju");
+            e1.studyingAbstract();
         }
 
         private static void basics()
@@ -69,9 +83,9 @@ namespace day3_Polymorphism
             e1.Enter(); //Pubic method of super class can simply be called
             e1.newEnter();
 
-            User u1 = new User("raj");
-            u1.Enter();
-            u1.newEnter();
+            //User u1 = new User("raj");  -- This will be ERROR now becuase User is now an abstract class and NO instance can be created
+            //u1.Enter();
+            //u1.newEnter();
 
             User u2 = new Employee("Ravi");
             u2.Enter(); //-calls the super class method --- !!!
