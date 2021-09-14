@@ -1,0 +1,7 @@
+F:\work\soti\xpedia\backend\day4-indexedClasses\bin\Debug\day4-indexedClasses.exe.config
+F:\work\soti\xpedia\backend\day4-indexedClasses\bin\Debug\day4-indexedClasses.exe
+F:\work\soti\xpedia\backend\day4-indexedClasses\bin\Debug\day4-indexedClasses.pdb
+F:\work\soti\xpedia\backend\day4-indexedClasses\obj\Debug\day4-indexedClasses.csproj.AssemblyReference.cache
+F:\work\soti\xpedia\backend\day4-indexedClasses\obj\Debug\day4-indexedClasses.csproj.CoreCompileInputs.cache
+F:\work\soti\xpedia\backend\day4-indexedClasses\obj\Debug\day4-indexedClasses.exe
+F:\work\soti\xpedia\backend\day4-indexedClasses\obj\Debug\day4-indexedClasses.pdb

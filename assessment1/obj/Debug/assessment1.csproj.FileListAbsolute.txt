@@ -1,0 +1,7 @@
+F:\work\soti\xpedia\backend\assessment1\obj\Debug\assessment1.csproj.AssemblyReference.cache
+F:\work\soti\xpedia\backend\assessment1\obj\Debug\assessment1.csproj.CoreCompileInputs.cache
+F:\work\soti\xpedia\backend\assessment1\bin\Debug\assessment1.exe.config
+F:\work\soti\xpedia\backend\assessment1\bin\Debug\assessment1.exe
+F:\work\soti\xpedia\backend\assessment1\bin\Debug\assessment1.pdb
+F:\work\soti\xpedia\backend\assessment1\obj\Debug\assessment1.exe
+F:\work\soti\xpedia\backend\assessment1\obj\Debug\assessment1.pdb
